@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>随记 on Zhilin Zhou</title>
-    <link>https://www.zhilin-C-zhou.com/zh/blog/</link>
+    <link>https://cathrineee.github.io/zh/blog/</link>
     <description>Recent content in 随记 on Zhilin Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     <lastBuildDate>Wed, 06 May 2020 19:05:55 -0400</lastBuildDate>
     
-	<atom:link href="https://www.zhilin-C-zhou.com/zh/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cathrineee.github.io/zh/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
