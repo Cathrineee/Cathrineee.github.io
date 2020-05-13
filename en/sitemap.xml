@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cathrineee.github.io/categories/</loc>
+    <lastmod>2020-05-12T23:26:22-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cathrineee.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cathrineee.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cathrineee.github.io/categories/class-note/</loc>
+    <lastmod>2020-05-12T23:26:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cathrineee.github.io/categories/midterm-review/</loc>
+    <lastmod>2020-05-12T23:26:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cathrineee.github.io/categories/problem-set/</loc>
+    <lastmod>2020-05-12T23:26:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cathrineee.github.io/tags/stat/</loc>
+    <lastmod>2020-05-12T23:26:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cathrineee.github.io/note/stat230/</loc>
+    <lastmod>2020-05-12T23:26:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cathrineee.github.io/tags/</loc>
+    <lastmod>2020-05-12T23:26:22-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cathrineee.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cathrineee.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cathrineee.github.io/</loc>
+    <lastmod>2020-05-12T23:26:22-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cathrineee.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cathrineee.github.io/"
+                />
+  </url>
+  
+  <url>
     <loc>https://cathrineee.github.io/note/</loc>
     <lastmod>2020-05-06T19:06:06-04:00</lastmod>
     <xhtml:link
@@ -18,21 +88,6 @@
   </url>
   
   <url>
-    <loc>https://cathrineee.github.io/</loc>
-    <lastmod>2020-05-06T19:06:06-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cathrineee.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cathrineee.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cathrineee.github.io/blog/</loc>
     <lastmod>2020-05-06T19:05:55-04:00</lastmod>
     <xhtml:link
@@ -44,34 +99,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cathrineee.github.io/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cathrineee.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cathrineee.github.io/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cathrineee.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cathrineee.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cathrineee.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cathrineee.github.io/tags/"
                 />
   </url>
   

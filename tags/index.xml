@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Zhilin Zhou &amp; [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 12 May 2020 23:26:22 -0400</lastBuildDate>
     
 	<atom:link href="https://cathrineee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>STAT</title>
+      <link>https://cathrineee.github.io/tags/stat/</link>
+      <pubDate>Tue, 12 May 2020 23:26:22 -0400</pubDate>
+      
+      <guid>https://cathrineee.github.io/tags/stat/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
